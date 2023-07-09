@@ -1,0 +1,75 @@
+h1{
+color:pink;
+left: 0;
+    line-height: 200px;
+    margin-top: -1px;
+    position: absolute;
+    text-align: center;
+    top: 2%;
+    width: 100%;
+font-size:70px;
+}
+
+form{
+color:lavender;
+font-size:large;
+}
+
+.larry{
+position: absolute;
+    right: 0px;
+    bottom: 0;
+}
+
+.bev{
+position: absolute;
+    left: 40px;
+    bottom: 180;
+}
+
+
+h2
+{
+color:pink;
+font-size:xx-large;
+}
+
+
+.u {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover
+{
+	color:white;
+	background-color:none;
+	text-decoration:underline;
+}
+
+.form {
+  width: 400px;
+  border: 5px solid pink;
+  padding: 50px;
+  margin: 10px;
+}

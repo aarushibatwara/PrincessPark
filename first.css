@@ -1,0 +1,71 @@
+h1{
+color:pink;
+font-family:"Bookman, URW Bookman L", serif;
+font-size:xxx-large;
+left: 0;
+    line-height: 200px;
+    margin-top: -120px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+.para{
+    color:pink;
+    font-family:"Bookman, URW Bookman L", serif;
+    font-size:large;
+    left: 0;
+        line-height: 200px;
+        margin-top: -80px;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        width: 100%;  
+
+}
+
+p{
+color:pink;
+    font-family:"Bookman, URW Bookman L", serif;
+    font-size:medium;
+    left: 0;
+        line-height: 200px;
+        margin-top: -10px;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        width: 100%; 
+dispaly:inline-block;
+height:50px; 
+
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.larry
+{position: absolute;
+    right: 0px;
+    bottom: 0;
+}
